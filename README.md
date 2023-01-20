@@ -4,5 +4,9 @@ The purpose of this survey is to analyze developer mental health with survey dat
 My Analysis will answer the following questions:
 * The relationship between mental health and age over the years
 * The relationship between mental health and gender over the years
+* Developers attitude towards mental health
+* Health care coverage & mental health
+* if devs have a history of mental disorder
+* mental health & productivity
 ## Dataset 
 The datasest can be found here: https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry
