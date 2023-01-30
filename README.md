@@ -8,5 +8,6 @@ My Analysis will answer the following questions:
 * Health care coverage & mental health
 * if devs have a history of mental disorder
 * mental health & productivity
+* average age of developers with mental disorder
 ## Dataset 
 The datasest can be found here: https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry
